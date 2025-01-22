@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat)
-[![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?logo=google-drive&logoColor=white&style=flat)(https://drive.google.com)
+[![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?logo=google-drive&logoColor=white&style=flat)](https://drive.google.com)
 [![POO](https://img.shields.io/badge/-POO%20Concepts-4CAF50?logo=code&logoColor=white&style=flat)](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos)
 
 ---
