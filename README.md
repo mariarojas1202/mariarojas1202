@@ -7,7 +7,7 @@
 ### 🌟 Sobre mí:
 - 🌱 Estoy aprendiendo y mejorando mis habilidades en **[Angular, React, C#, entre otros]**.
 - 💬 Pregúntame sobre **programación, diseño o cualquier tema relacionado con tecnología**.
-- 📫 Puedes contactarme en: **[tu correo, LinkedIn u otro método de contacto]**.
+- 📫 Puedes contactarme en: **mariaalejandrarojasburgos03@gmail.com**.
 - 😄 **Actualmente estoy ejerciendo mi etapa practica**.
 
 
